@@ -1,0 +1,5 @@
+Command query separation
+--Commands should do something and respond with nothing
+--Queries should do nothing and respond with somethng
+
+Ie a function can either do an action or return a value but not both.
